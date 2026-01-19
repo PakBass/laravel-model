@@ -14,6 +14,7 @@
         <div class="row">
             <div class="col">
                 <h2 class="mt-3">Data User</h2>
+                <a href="" type="button" class="btn btn-info">Tambah Data</a>
                 <table class="table mt-3">
                     <thead>
                         <tr>
