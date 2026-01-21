@@ -17,6 +17,8 @@
                 <a href="" type="button" class="btn btn-info">Tambah Data</a>
                 <hr>
                 <p>Test</p>
+                <p>Test</p>
+                <p>Test</p>
                 <table class="table mt-3">
                     <thead>
                         <tr>
