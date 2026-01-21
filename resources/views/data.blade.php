@@ -16,6 +16,7 @@
                 <h2 class="mt-3">Data User</h2>
                 <a href="" type="button" class="btn btn-info">Tambah Data</a>
                 <hr>
+                <hr>
                 <table class="table mt-3">
                     <thead>
                         <tr>
@@ -23,6 +24,7 @@
                             <th scope="col">Nama</th>
                             <th scope="col">Email</th>
                             <th scope="col">Password</th>
+                            <th scope="col">Aksi</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -32,6 +34,7 @@
                                 <td>{{$user->name}}</td>
                                 <td>{{$user->email}}</td>
                                 <td>{{$user->password}}</td>
+                                <td><button class="btn btn-info">Edit</button></td>
                             </tr>
                         @endforeach
                     </tbody>
