@@ -19,7 +19,9 @@
                 <p>Coba lagi</p>
                 <p>branch basuki</p>
                 <!-- Repan Disini -->
-                <p>Hi</p> 
+                {{-- bagus di sini --}}
+                {{-- Hafizh Disini --}}
+                <p>Hi</p>
                 <p>Izin tampil</p>
                 <p>coba push</p>
                 <table class="table mt-3">
