@@ -16,15 +16,12 @@
                 <h2 class="mt-3">Data Orang</h2>
                 <a href="" type="button" class="btn btn-info">Tambah Data</a>
                 <hr>
-                <p>Coba kolaborasi</p>
-                <h1>HOHOHO</h1>
                 <p>Coba lagi</p>
-                <p>branch basuki</p>
                 <!-- Repan Disini -->
-                {{-- Hafizh Disini --}}
                 <p>Hi</p> 
                 <p>Izin tampil</p>
-                <p>coba push</p>
+                <p>tes plenger</p>
+
                 <table class="table mt-3">
                     <thead>
                         <tr>
@@ -41,6 +38,8 @@
                                 <td>{{$user->name}}</td>
                                 <td>{{$user->email}}</td>
                                 <td>{{$user->password}}</td>
+                                <td>{{$user->password}}</td>
+
                             </tr>
                         @endforeach
                     </tbody>
