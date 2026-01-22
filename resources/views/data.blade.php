@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{{$title}}</title>
+    <title>{{ $title }}</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
 </head>
@@ -26,6 +26,7 @@
                 <p>Hi</p>
                 <p>Izin tampil</p>
                 <p>tes plenger</p>
+                <p>ratatata</p>
 
                 <table class="table mt-3">
                     <thead>
@@ -39,11 +40,11 @@
                     <tbody>
                         @foreach ($users as $user)
                             <tr>
-                                <th scope="row">{{$loop->iteration}}</th>
-                                <td>{{$user->name}}</td>
-                                <td>{{$user->email}}</td>
-                                <td>{{$user->password}}</td>
-                                <td>{{$user->password}}</td>
+                                <th scope="row">{{ $loop->iteration }}</th>
+                                <td>{{ $user->name }}</td>
+                                <td>{{ $user->email }}</td>
+                                <td>{{ $user->password }}</td>
+                                <td>{{ $user->password }}</td>
 
                             </tr>
                         @endforeach
