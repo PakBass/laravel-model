@@ -17,6 +17,7 @@
                 <a href="" type="button" class="btn btn-info">Tambah Data</a>
                 <hr>
                 <p>Coba lagi</p>
+                <p>branch basuki</p>
                 <!-- Repan Disini -->
                 <p>Hi</p> 
                 <p>Izin tampil</p>
