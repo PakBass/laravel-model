@@ -16,6 +16,8 @@
                 <h2 class="mt-3">Data Orang</h2>
                 <a href="" type="button" class="btn btn-info">Tambah Data</a>
                 <hr>
+                <p>Coba kolaborasi</p>
+                <h1>HOHOHO</h1>
                 <p>Coba lagi</p>
                 <p>branch basuki</p>
                 <!-- Repan Disini -->
