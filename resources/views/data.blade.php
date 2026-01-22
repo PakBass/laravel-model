@@ -17,6 +17,7 @@
                 <a href="" type="button" class="btn btn-info">Tambah Data</a>
                 <hr>
                 <p>Coba kolaborasi</p>
+                <p>Coba lagi</p>
                 <table class="table mt-3">
                     <thead>
                         <tr>
