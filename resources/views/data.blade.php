@@ -13,13 +13,13 @@
     <div class="container">
         <div class="row">
             <div class="col">
-                <h2 class="mt-3">Data User</h2>
+                <h2 class="mt-3">Data Orang</h2>
                 <a href="" type="button" class="btn btn-info">Tambah Data</a>
                 <hr>
-                <p>Coba kolaborasi</p>
-                <p>Udah di coba</p>
+                <p>Coba lagi</p>
                 <p>Datanglah Conflict</p>
-                <p>Udah coba</p>
+                <p>Izin tampil</p>
+                <p>coba push</p>
                 <table class="table mt-3">
                     <thead>
                         <tr>
