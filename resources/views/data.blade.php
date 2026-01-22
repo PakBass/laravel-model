@@ -16,7 +16,6 @@
                 <h2 class="mt-3">Data User</h2>
                 <a href="" type="button" class="btn btn-info">Tambah Data</a>
                 <hr>
-                <p>Coba kolaborasi</p>
                 <p>Coba lagi</p>
                 <p>Datanglah Conflict</p>
                 <p>Izin tampil</p>
