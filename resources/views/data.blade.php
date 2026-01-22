@@ -18,7 +18,11 @@
                 <hr>
                 <p>Coba lagi</p>
                 <!-- Repan Disini -->
+                {{-- bagus di sini --}}
+                {{-- Hafizh Disini --}}
+                {{-- Darren disini --}}
                 <p>Hi</p> 
+                <p>Hi</p>
                 <p>Izin tampil</p>
                 <p>tes plenger</p>
 
