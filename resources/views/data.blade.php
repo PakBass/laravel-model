@@ -13,7 +13,7 @@
     <div class="container">
         <div class="row">
             <div class="col">
-                <h2 class="mt-3">Data User</h2>
+                <h2 class="mt-3">Data Orang</h2>
                 <a href="" type="button" class="btn btn-info">Tambah Data</a>
                 <hr>
                 <p>Coba lagi</p>
