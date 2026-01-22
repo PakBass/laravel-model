@@ -17,8 +17,8 @@
                 <a href="" type="button" class="btn btn-info">Tambah Data</a>
                 <hr>
                 <p>Coba lagi</p>
-                <p>Datanglah Conflict</p>
-                <p>Hi</p>
+                <!-- Repan Disini -->
+                <p>Hi</p> 
                 <p>Izin tampil</p>
                 <table class="table mt-3">
                     <thead>
