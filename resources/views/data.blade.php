@@ -19,6 +19,7 @@
                 <p>Coba lagi</p>
                 <p>Datanglah Conflict</p>
                 <p>Izin tampil</p>
+                <p>coba push</p>
                 <table class="table mt-3">
                     <thead>
                         <tr>
