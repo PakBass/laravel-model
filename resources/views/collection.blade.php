@@ -13,40 +13,25 @@
     <div class="container">
         <div class="row">
             <div class="col">
-                <h2 class="mt-3">Data Orang</h2>
-                <a href="" type="button" class="btn btn-info">Tambah Data</a>
+                <h2 class="mt-3">Data Product</h2>
+                <a href="" type="button" class="btn btn-info">Tambah Produict</a>
                 <hr>
-                <p>Coba lagi</p>
-                <p>testing </p>
-                <p>Datanglah Conflict</p>
-                <!-- Repan Disini -->
-                {{-- bagus di sini --}}
-                {{-- Hafizh Disini --}}
-                {{-- Darren disini --}}
-                {{-- pleger --}}
-                <p>Hi</p>
-                <p>Hi</p>
-                <p>Izin tampil</p>
-                <p>tes plenger</p>
-
                 <table class="table mt-3">
                     <thead>
                         <tr>
                             <th scope="col">No</th>
-                            <th scope="col">Nama</th>
-                            <th scope="col">Email</th>
-                            <th scope="col">Password</th>
+                            <th scope="col">Product</th>
+                            <th scope="col">Description</th>
+                            <th scope="col">Stock</th>
                         </tr>
                     </thead>
                     <tbody>
-                        @foreach ($users as $user)
+                        @foreach ($products as $product)
                             <tr>
                                 <th scope="row">{{$loop->iteration}}</th>
-                                <td>{{$user->name}}</td>
-                                <td>{{$user->email}}</td>
-                                <td>{{$user->password}}</td>
-                                <td>{{$user->password}}</td>
-
+                                <td>{{$product->name}}</td>
+                                <td>{{$product->description}}</td>
+                                <td>{{$product->stock}}</td>
                             </tr>
                         @endforeach
                     </tbody>
