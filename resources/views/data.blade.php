@@ -17,6 +17,8 @@
                 <a href="" type="button" class="btn btn-info">Tambah Data</a>
                 <hr>
                 <p>Coba lagi</p>
+                <p>testing </p>
+                <p>Datanglah Conflict</p>
                 <!-- Repan Disini -->
                 {{-- bagus di sini --}}
                 {{-- Hafizh Disini --}}
